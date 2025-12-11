@@ -1,1 +1,1 @@
-In this repo I have shared a report that I created by analyzing the phishing email and identifying the IOCs with checking their ip, domain, URLs in that mail using some tools and reported my fiedling in the document with some screenshots.  
+In this repo I have shared a report that I created by analyzing the phishing email and identifying the IOCs with checking their ip, domain, URLs in that mail using some tools and reported my finding in the document with some screenshots.  
